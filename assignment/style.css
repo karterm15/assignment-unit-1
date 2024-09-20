@@ -1,13 +1,20 @@
 /* Add a background color to the header element */
-
+header {background-color: rgb(32, 218, 203);
+}
 /* Add a fun background color to the main element */
-
+main {background-color: rgb(49, 213, 120);}
 /* Align the h1 containing your name in the center of the header*/
-
+h1{text-align: center;}
 /* Make your p tag a different color and italic */
-
+p {color: rgb(229, 77, 21); font-style: italic; font-size: 24px;}
 /* Put a border around your image */
+img {border-style:solid;
+    border-radius: 20px;
+height: 300px;
+width: 300px;
 
+}
 /* Change the font-family of your list */
-
+li{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
 /* Add a background color to the footer element */
+footer{background-color: rgb(236, 249, 140); }
